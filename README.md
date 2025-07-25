@@ -17,27 +17,6 @@ The goal is to **tell a story about business trends in Belgium** by answering st
 
 ---
 
-## **Objectives**
-
-* Connect to a PostgreSQL database with company data.
-* Write **at least 10 advanced SQL queries** using:
-
-  * **JOINs (INNER, LEFT, RIGHT)**
-  * **Aggregate functions**
-  * **Date/time functions**
-  * **CASE statements**
-  * **GROUP BY, ORDER BY**
-* Extract **business insights** related to:
-
-  * Company distribution by juridical form
-  * Status trends
-  * Creation trends over decades
-  * Regional and sector evolution
-* Visualize findings in **graphs** and **maps**.
-* Create a **professional presentation** (5–8 slides) showcasing insights.
-
----
-
 ## **Key Insights Delivered**
 
 Some of the main questions answered:
